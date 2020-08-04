@@ -1,10 +1,1 @@
- Volume in drive C is OS
- Volume Serial Number is E48F-00C1
-
- Directory of C:\Users\vikash.aryan\Desktop\My_GIT_Project
-
-04-08-2020  12:30    <DIR>          .
-04-08-2020  12:30    <DIR>          ..
-04-08-2020  12:30                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  195,508,490,240 bytes free
+change 1
